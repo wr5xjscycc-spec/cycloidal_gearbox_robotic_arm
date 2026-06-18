@@ -40,6 +40,10 @@ Complete engineering specification and build guide for a three-degree-of-freedom
 
 ![Two-stage cycloidal gearbox cutaway](assets/robotic_arm_1.png)
 
+*Two-stage cycloidal gearbox section view showing the dual-disc layout, eccentric crankshaft, and housing pin arrangement.*
+
+![Full arm assembly](assets/robotic_arm_3.png)
+
 ## Encoder Systems
 
 - **Base joint:** TCRT5000 reflective optical encoder (quadrature ABZ, 160 CPR)
@@ -131,6 +135,10 @@ The end-effector is a **dual-servo adaptive jaw gripper** mounted at the elbow-s
 > **Gripper model designed by Tazer** — used with permission. Check out his work at [patreon.com/TazerEngineering](http://patreon.com/TazerEngineering/posts/smart-gripper-149409228).
 
 ![Dual-servo adaptive gripper](assets/robotic_arm_2.png)
+
+*Adaptive gripper with swept-back ridged fingers for conforming grip.*
+
+![Base rotating platform and encoder](assets/robotic_arm_4.png)
 
 ### Gripper Specifications
 
