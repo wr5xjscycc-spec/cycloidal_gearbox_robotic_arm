@@ -38,6 +38,8 @@ Complete engineering specification and build guide for a three-degree-of-freedom
 | Shoulder demand (worst case) | ~7.82 Nm (28% headroom) |
 | Print material | PLA+ or ABS |
 
+![Two-stage cycloidal gearbox cutaway](assets/robotic_arm_1.png)
+
 ## Encoder Systems
 
 - **Base joint:** TCRT5000 reflective optical encoder (quadrature ABZ, 160 CPR)
@@ -127,6 +129,8 @@ Complete engineering specification and build guide for a three-degree-of-freedom
 The end-effector is a **dual-servo adaptive jaw gripper** mounted at the elbow-side output flange. Unlike a simple parallel pincer, the finger arms are swept into a wide V and carry ridged inner faces, so the jaws progressively conform around a target rather than contacting it at a single point.
 
 > **Gripper model designed by Tazer** — used with permission. Check out his work at [patreon.com/TazerEngineering](http://patreon.com/TazerEngineering/posts/smart-gripper-149409228).
+
+![Dual-servo adaptive gripper](assets/robotic_arm_2.png)
 
 ### Gripper Specifications
 
