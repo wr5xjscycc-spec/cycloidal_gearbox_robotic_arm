@@ -23,6 +23,8 @@ Built the rollers (the steel housing pins) into the design. These are plain 8 mm
 
 Worked through the output pin flange geometry — six blind holes on a 41 mm PCD for Stage 1 that accept 6 mm output pin rods. These rods transfer torque from the orbiting cycloidal discs into the concentric output flange. The flange then drives either the next stage or the final arm joint.
 
+![Output flange with pin hole pattern](assets/output_flange.webp)
+
 *2h 9m logged*
 
 Added all the M3 screw holes for the retaining plates that sandwich the disc stack together. The axial stack order is: bottom plate → 3 mm spacer → disc 1 → 2 mm sandwich spacer → disc 2 → top plate. Each plate bolts into the housing ring. Verified the full assembly in CAD — everything lines up, the discs orbit freely within the housing pins, and the output pins engage properly through both discs.
