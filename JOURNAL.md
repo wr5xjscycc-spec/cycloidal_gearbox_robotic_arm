@@ -41,6 +41,8 @@ Connected Stage 1 to Stage 2. The output flange of Stage 1 becomes the input cra
 
 The full two-stage gearbox is assembled in CAD. 20:1 first stage coupled to 25:1 second stage gives a clean 500:1 total reduction in a coaxial package about 59 mm tall (excluding the motor). The disc profiles use contracted cycloids — K1 = 0.618 for Stage 1 and 0.722 for Stage 2 — both safely under the undercutting limit. Next step is designing the actuator housing that wraps around this gearbox and mounts to the arm segments.
 
+![Complete two-stage gearbox assembly](assets/gearbox_complete.webp)
+
 ## Day 6 — Arm Structure Begins
 *41m logged*
 
