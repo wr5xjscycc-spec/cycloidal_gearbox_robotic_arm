@@ -48,6 +48,8 @@ The full two-stage gearbox is assembled in CAD. 20:1 first stage coupled to 25:1
 
 Started the arm segments. Going for hollow tapered profiles to keep weight down while maintaining stiffness — the arm has to support itself plus a payload at full horizontal extension, so every gram of segment weight directly loads the shoulder joint.
 
+![Arm segment profile](assets/arm_segment.webp)
+
 *1h 23m logged*
 
 Integrated the encoder mounts into the arm design. The shoulder and elbow joints use AS5048A 14-bit absolute magnetic encoders reading a diametrically magnetized magnet on the output shaft tip — this gives true joint position after the full 500:1 reduction, not motor position. Set up the mounting brackets that hold the encoder boards at a consistent 1–2 mm air gap from the magnet face.
