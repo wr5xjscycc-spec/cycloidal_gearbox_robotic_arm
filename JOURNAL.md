@@ -59,6 +59,8 @@ Integrated the encoder mounts into the arm design. The shoulder and elbow joints
 
 Working on the base encoder. The base joint is complicated because the output is a horizontal rotating platform — there's no accessible shaft end to mount a magnet on. Initial plan: tiny neodymium magnets embedded in the rotating platform read by a Hall sensor. Modeling the magnet pattern and sensor placement.
 
+![Base encoder setup](assets/base_encoder.webp)
+
 *1h 23m logged*
 
 Set up the encoder mounts and wiring channels through the arm for the sensor cables.
