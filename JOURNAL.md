@@ -12,6 +12,8 @@ Started at the heart of the cycloidal drive: the eccentric crankshaft ("crack sh
 
 Took a step back and cleaned up the design. Removed unnecessary geometry that was complicating the assembly and started on the housing ring for Stage 1. The housing ring holds 21 hardened steel rods at a 34 mm pitch radius — these are the fixed pins the cycloidal discs push against to generate the reduction. Getting the rod hole pattern right is critical: the housing bore, rod pitch radius, and rod diameter all interact to determine the cycloidal profile parameters.
 
+![Stage 1 housing ring with rod holes](assets/gearbox_housing.webp)
+
 *1h 26m logged*
 
 Built the rollers (the steel housing pins) into the design. These are plain 8 mm hardened steel rods — no roller bearings, just grease-lubricated sliding contact. Simple and adequate at the output speeds we're running. Next up is the output pin flange — the part that catches the orbital motion and turns it into concentric rotation.
