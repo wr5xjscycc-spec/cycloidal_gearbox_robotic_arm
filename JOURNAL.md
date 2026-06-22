@@ -82,17 +82,21 @@ Worked on connecting arm components to the turning base.
 
 Worked on the connection from the base to the arm.
 
+![Gripper fit test](assets/day12_gripper_test.webp)
+
 ## Day 13 — FOC Mount & Movement
 *27m logged*
 
 Fixed connection to allow movement and also made mount for FOC.
 
-![Gripper fit test](assets/day12_gripper_test.webp)
+![FOC mount](assets/day13_mount.webp) ![Connection detail](assets/day13_connection.webp)
 
 ## Day 14 — Final Assembly & Gripper
 *2h 2m logged*
 
 I finished up the assembly and everything should be complete now, hoping to get funding now. Also pulled a free model from online for the gripper.
+
+![Final assembly](assets/day14_final_assembly.webp)
 
 ---
 
