@@ -5,6 +5,8 @@
 
 Started at the heart of the cycloidal drive: the eccentric crankshaft ("crack shaft"). This is the component that converts smooth motor rotation into the orbital motion that makes cycloidal drives work. Modeled the shaft with two offset journals 180° apart — each with a 1 mm eccentricity — so the two cycloidal discs per stage orbit in opposite directions and cancel each other's vibration. Also built the motor enclosure that holds the EMAX RS2205 securely and aligns it axially with the crankshaft input.
 
+![Crankshaft journal offset detail](assets/gearbox_build_1.webp) ![Housing rod layout](assets/gearbox_build_2.webp) ![Motor enclosure fit](assets/gearbox_build_3.webp)
+
 ## Day 2 — Housing & Profile Fixes
 *2h 26m logged*
 
