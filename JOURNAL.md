@@ -34,6 +34,8 @@ Added all the M3 screw holes for the retaining plates that sandwich the disc sta
 
 Connected Stage 1 to Stage 2. The output flange of Stage 1 becomes the input crankshaft for Stage 2 — they share a common axis and bolt together rigidly. Designed the base flange that supports the output of Stage 2, which is where the actual arm segment attaches. This interface has to handle the full 500:1 accumulated torque.
 
+![Stage 1 to Stage 2 coupling](assets/stage_coupling_1.webp) ![Base flange and output interface](assets/stage_coupling_2.webp)
+
 ## Day 5 — Two-Stage Gearbox Complete
 *1h 11m logged*
 
