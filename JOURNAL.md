@@ -98,6 +98,13 @@ I finished up the assembly and everything should be complete now, hoping to get 
 
 ![Final assembly](assets/day14_final_assembly.webp)
 
+## Day 15 — Gripper Modification
+*13h 59m logged*
+
+Edited the gripper to make it smaller to work with my design.
+
+![Modified gripper](assets/day15_gripper_mod.webp)
+
 ---
 
-**Total logged time:** ~19h 0m
+**Total logged time:** ~32h 59m
