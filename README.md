@@ -100,7 +100,7 @@ The gripper has a dual servo design for maximum power mounted at the end of the 
 
 > **Gripper model by Tazer** — [patreon.com/TazerEngineering](http://patreon.com/TazerEngineering/posts/smart-gripper-149409228)
 
-![Gripper](assets/robotic_arm_3.png)
+![Gripper](assets/day15_gripper_mod.webp)
 
 | Parameter | Value |
 |-----------|-------|
