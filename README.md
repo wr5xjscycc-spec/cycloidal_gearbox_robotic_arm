@@ -96,7 +96,7 @@ The gearbox contains two contracted cycloids per stage with them out of phase by
 
 ## Gripper
 
-The gripper has a dual servo design for maximum power mounted at the end of the robotoc arm. The arms use a shape that allows  the arms to mold around the objects ensuring a firm grip this part should be printed in tpu for it to bend around opjects. The design I got from the internet.
+The gripper has a dual servo design for maximum power mounted at the end of the robotoc arm. The arms use a shape that allowsthe arms to mold around the objects ensuring a firm grip this part should be printed in tpu for it to bend around opjects. I modified a design that I found off of the internet to fit my arm properly and is serperate in the cad files under the name gripper.
 
 > **Gripper model by Tazer** — [patreon.com/TazerEngineering](http://patreon.com/TazerEngineering/posts/smart-gripper-149409228)
 
